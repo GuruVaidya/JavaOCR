@@ -2,12 +2,8 @@
   <library name="Lib">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/Lib" />
-      <root url="jar://$PROJECT_DIR$/../asprise-ocr-java-5.01/aocr.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <NATIVE>
-      <root url="jar://$PROJECT_DIR$/../asprise-ocr-java-5.01/aocr.jar!/" />
-    </NATIVE>
     <SOURCES />
     <jarDirectory url="file://$PROJECT_DIR$/Lib" recursive="false" />
   </library>
