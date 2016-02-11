@@ -6,6 +6,7 @@ import com.asprise.ocr.Ocr;
 
 import java.io.File;
 
+/// ADDING A COMMENT HERe
 public class one {
     public static void main(String[] args) {
         Ocr.setUp();
